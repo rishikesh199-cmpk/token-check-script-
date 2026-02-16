@@ -651,7 +651,7 @@ app.post('/uid-extract', async (req, res) => {
                                                 Try Again
                                             </a>
                                             <a href="https://www.facebook.com/TechnicalFyter" target="_blank" class="btn btn-outline-secondary btn-custom">
-                                                Owner Luffy Don 
+                                                Owner YAMRAJ™️💪🏻
                                             </a>
                                         </div>
                                     </div>
